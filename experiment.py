@@ -1,1 +1,2 @@
-print("experiment")
+def experiment():
+    print("running")
