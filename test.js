@@ -1,3 +1,5 @@
-function test() {
-  console.log("testing");
+class Test {
+  run() {
+    console.log("testing");
+  }
 }
